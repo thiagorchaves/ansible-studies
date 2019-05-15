@@ -1,0 +1,4 @@
+.vagrant
+vagrant_2.2.4_x86_64.deb
+*.txt
+provisioning.retry
